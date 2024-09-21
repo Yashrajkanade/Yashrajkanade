@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashrajkanade
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science project
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning backend technologies
+- 💞️ I’m looking to collaborate on software development project
 - 📫 How to reach me yashrajkanade on linked in
 
 <!---
